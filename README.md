@@ -18,6 +18,8 @@ For more information contact nichitiu@mit.edu or kareenas@mit.edu.
 
 - OpenRocket Triangular Leading Edge Support: ([report](https://github.com/MDNich/MIT-RT-Simulation-Requests/blob/main/development_docs/openrocket/triangular-leading-edge-implementation/writeup/triangular-leading-edge-implementation.pdf)) ([slides](https://github.com/MDNich/MIT-RT-Simulation-Requests/blob/main/development_docs/openrocket/triangular-leading-edge-implementation/slides/triangular-leading-edge-slides.pdf))
 
+- [Supersonic center of pressure: RASAero calibration and Iris comparison](development_docs/openrocket/supersonic-cp-calibration/writeup/supersonic-cp-calibration.pdf) ([Beamer slides](development_docs/openrocket/supersonic-cp-calibration/slides/supersonic-cp-slides.pdf))
+
 ### Tutorials
 
 - [ANSYS Composite FEA](https://github.com/MDNich/MIT-RT-Simulation-Requests/blob/main/tutorials/ansys/acp_fea/tutorial.ansys.ACP.fea.pdf)
